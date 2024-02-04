@@ -1,5 +1,9 @@
 {
-  "dependencies": {
+  "scripts":{
+    "start" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.3"
   }
 }
