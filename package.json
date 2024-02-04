@@ -1,6 +1,6 @@
 {
   "scripts":{
-    "start" : "nodemon 004_promesas.js",
+    "start" : "nodemon 005_async_await.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
