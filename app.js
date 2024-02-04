@@ -25,7 +25,7 @@ fs.readFile('./file.json',(err,data) =>{
 //Crear nuestro propio servidor de forma local  en NODE JS en HTTP
 
 
- const http = require('http'); //Con esto avisamos que trabajaremos con protocolo http 
+ /*const http = require('http'); //Con esto avisamos que trabajaremos con protocolo http 
 
 const hostmane = '127.0.0.1'; //enviamos HOSTNAME
 const port = 3001; //PUERTO
@@ -40,8 +40,8 @@ const server = http.createServer((req, res) => {
 server.listen(port, hostmane, () => {
     // Usamos ` para usar los parametros en el mensaje 
     console.log(`Se conecto al servidor http://${hostmane}:${port}`);
-})
+}) 
+*/
 
-
-//console.log('Hola Mundo');
+console.log('Hola Mundo Ma');
 
