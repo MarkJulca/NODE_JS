@@ -1,6 +1,6 @@
 {
   "scripts":{
-    "start" : "nodemon 003_callback.js",
+    "start" : "nodemon 004_promesas.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
