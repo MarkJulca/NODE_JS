@@ -11,6 +11,7 @@ const data = [
 //creamos nuestra constante getData 
 //callback o cb es el resultado o lo que devuelve de parametros o argumentos, si usamos callback necesitamos crear más funciones
 //callback funcion que se pasa como argumento a otra funcion y se ejecuta despues de que la funcion original haya terminado de ejecutarse
+//probando pul request
 const getData = (callback) => {
     //validamos que si es true traera la data
     if(true){ 
