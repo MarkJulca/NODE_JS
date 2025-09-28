@@ -11,6 +11,7 @@ const data = [
 
 //Promesas devuelve argumentos,estos argumentos pueden ser demostrados por alguna accion o error
 //funcion getData llamamos a un error por medio de err y nos retorna una Promise o promesa, donde resolve y reject son callback
+//comentario 15:50
 const getData = (err) => new Promise((resolve, reject) => {
     //resolve  enviando algo que si encontro,reject esta rechazando algo es decir no encontro nada
     //const consulta = (data) => console.log(data)
